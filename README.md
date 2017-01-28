@@ -1,3 +1,3 @@
 NODE_API
 
-Build a simple node api very quickly in Node.js, express framework and MongoDB.
+Build a simple API very quickly in Node.js, express framework and MongoDB.
